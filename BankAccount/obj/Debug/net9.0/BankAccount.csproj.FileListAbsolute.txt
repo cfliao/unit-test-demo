@@ -90,6 +90,7 @@ C:\Users\Administrator\Desktop\unit-test-demo\BankAccount\obj\Debug\net9.0\BankA
 C:\Users\Administrator\Desktop\unit-test-demo\BankAccount\obj\Debug\net9.0\BankAccount.AssemblyInfoInputs.cache
 C:\Users\Administrator\Desktop\unit-test-demo\BankAccount\obj\Debug\net9.0\BankAccount.AssemblyInfo.cs
 C:\Users\Administrator\Desktop\unit-test-demo\BankAccount\obj\Debug\net9.0\BankAccount.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\unit-test-demo\BankAccount\obj\Debug\net9.0\BankAccount.sourcelink.json
 C:\Users\Administrator\Desktop\unit-test-demo\BankAccount\obj\Debug\net9.0\BankAcco.A8F95CC6.Up2Date
 C:\Users\Administrator\Desktop\unit-test-demo\BankAccount\obj\Debug\net9.0\BankAccount.dll
 C:\Users\Administrator\Desktop\unit-test-demo\BankAccount\obj\Debug\net9.0\refint\BankAccount.dll
